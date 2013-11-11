@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"GitGutter",
+		"Jade",
+		"SCSS",
+		"Stylus"
+	]
+}
